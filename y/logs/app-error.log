@@ -1,0 +1,914 @@
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED addimg success
+[ COMMAND ] LOADED adduser success
+[ COMMAND ] LOADED adv success
+[ COMMAND ] LOADED all success
+[ COMMAND ] LOADED anime success
+[ COMMAND ] LOADED antiout success
+[ COMMAND ] LOADED autoseen success
+[ COMMAND ] LOADED banking success
+[ COMMAND ] LOADED baucua success
+[ COMMAND ] LOADED btc success
+[ COMMAND ] LOADED callad success
+[ COMMAND ] LOADED chanle success
+[ COMMAND ] LOADED chess success
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED cmd2 success
+[ COMMAND ] LOADED coin success
+[ COMMAND ] LOADED contact success
+[ COMMAND ] LOADED count success
+[ COMMAND ] LOADED daily success
+[ COMMAND ] LOADED data success
+[ COMMAND ] LOADED dictionary success
+[ COMMAND ] LOADED donate success
+[ COMMAND ] LOADED donggop success
+[ COMMAND ] LOADED emoji success
+[ COMMAND ] LOADED face success
+[ COMMAND ] LOADED fact success
+[ COMMAND ] LOADED farm success
+[ COMMAND ] LOADED file success
+[ COMMAND ] LOADED game success
+[ COMMAND ] LOADED test success
+[ COMMAND ] LOADED ghep success
+[ COMMAND ] LOADED gift success
+[ COMMAND ] LOADED girl success
+[ COMMAND ] LOADED help success
+[ COMMAND ] LOADED id success
+[ COMMAND ] LOADED imgur success
+[ COMMAND ] LOADED ip success
+[ COMMAND ] LOADED kbb success
+[ COMMAND ] LOADED khaosat success
+[ COMMAND ] LOADED leakonly success
+[ COMMAND ] LOADED list success
+[ COMMAND ] LOADED lucky success
+[ COMMAND ] LOADED mine success
+[ COMMAND ] LOADED money success
+[ COMMAND ] LOADED morse success
+[ COMMAND ] LOADED movie success
+[ COMMAND ] LOADED netanh success
+[ COMMAND ] LOADED news success
+[ COMMAND ] LOADED noti success
+[ COMMAND ] LOADED npm success
+[ COMMAND ] LOADED nsfw success
+[ COMMAND ] LOADED pay success
+[ COMMAND ] LOADED poem success
+[ COMMAND ] LOADED qrcode success
+[ COMMAND ] LOADED quiz success
+[ COMMAND ] LOADED reset success
+[ COMMAND ] LOADED restart success
+[ COMMAND ] LOADED rizz success
+[ COMMAND ] LOADED rules success
+[ COMMAND ] LOADED say success
+[ COMMAND ] LOADED setname success
+[ COMMAND ] LOADED shortcut success
+[ COMMAND ] LOADED shortenurl success
+[ COMMAND ] LOADED sing success
+[ COMMAND ] LOADED slot success
+[ COMMAND ] LOADED spam success
+[ COMMAND ] LOADED speedtest success
+[ COMMAND ] LOADED steal success
+[ COMMAND ] LOADED stock success
+[ COMMAND ] LOADED tid success
+[ COMMAND ] LOADED tiktok success
+[ COMMAND ] LOADED tk success
+[ COMMAND ] LOADED top success
+[ COMMAND ] LOADED trader success
+[ COMMAND ] LOADED translate success
+[ COMMAND ] LOADED trombank success
+[ COMMAND ] LOADED ttt success
+[ COMMAND ] LOADED tuonglai success
+[ COMMAND ] LOADED tx success
+[ COMMAND ] LOADED uid success
+[ COMMAND ] LOADED unsend success
+[ COMMAND ] LOADED updatedata success
+[ COMMAND ] LOADED uptime success
+[ COMMAND ] LOADED weather success
+[ COMMAND ] LOADED wiki success
+[ COMMAND ] LOADED work success
+[ COMMAND ] LOADED ytb success
+[ EVENT ] LOADED adminNoti success
+[ EVENT ] LOADED anti success
+[ EVENT ] LOADED join success
+[ LOADED ] [ SUCCESS ] Loaded 87 commands and 3 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 11s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: /
+[ EVENT ] [ 20:08:16 08/16/2024 ] Event được thực thi: anti tại nhóm: 7945260388829260 | Thời gian xử lý: 1ms
+[ DELETE DATA ] Perform user deletion 100089415987625
+[ DATABASE ] người dùng mới: 61556529433226
+[ DEV MODE ] time⏱:[ 20:08:29 16/08/2024 ]
+Lệnh sử dụng📌: /help 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: all
+Thời gian xử lý📍: 15ms
+[ DEV MODE ] time⏱:[ 20:08:54 16/08/2024 ]
+Lệnh sử dụng📌: /autoseen 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 9ms
+[ DEV MODE ] time⏱:[ 20:08:00 16/08/2024 ]
+Lệnh sử dụng📌: /autoseen 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: offf
+Thời gian xử lý📍: 10ms
+[ DEV MODE ] time⏱:[ 20:08:09 16/08/2024 ]
+Lệnh sử dụng📌: /autoseen 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: off
+Thời gian xử lý📍: 10ms
+[ ADD DATA ] Perform more group data 8113751038679859
+node:fs:2368
+    return binding.writeFileUtf8(
+                   ^
+
+Error: ENOENT: no such file or directory, open 'D:\PACK 2.1.3.2\module\commands\noti\groups.json'
+    at Object.writeFileSync (node:fs:2368:20)
+    at readOrCreateFile (D:\PACK 2.1.3.2\module\commands\noti.js:10:12)
+    at module.exports.handleEvent (D:\PACK 2.1.3.2\module\commands\noti.js:169:18)
+    at D:\PACK 2.1.3.2\includes\handle\handleCommandEvent.js:37:30
+    at D:\PACK 2.1.3.2\includes\listen.js:149:5
+    at D:\PACK 2.1.3.2\main.js:415:14
+    at D:\PACK 2.1.3.2\includes\login\src\listenMqtt.js:270:21
+    at resolveAttachmentUrl (D:\PACK 2.1.3.2\includes\login\src\listenMqtt.js:270:53)
+    at parseDelta (D:\PACK 2.1.3.2\includes\login\src\listenMqtt.js:287:5)
+    at MqttClient.<anonymous> (D:\PACK 2.1.3.2\includes\login\src\listenMqtt.js:209:5)
+    at MqttClient.emit (node:events:519:28)
+    at Arguments.<anonymous> (D:\PACK 2.1.3.2\node_modules\mqtt\lib\client.js:1529:27)
+    at MqttClient.options.customHandleAcks (D:\PACK 2.1.3.2\node_modules\mqtt\lib\client.js:270:150)
+    at MqttClient._handlePublish (D:\PACK 2.1.3.2\node_modules\mqtt\lib\client.js:1522:15)
+    at MqttClient._handlePacket (D:\PACK 2.1.3.2\node_modules\mqtt\lib\client.js:529:12)
+    at work (D:\PACK 2.1.3.2\node_modules\mqtt\lib\client.js:430:12)
+    at writable._write (D:\PACK 2.1.3.2\node_modules\mqtt\lib\client.js:444:5)
+    at doWrite (D:\PACK 2.1.3.2\node_modules\readable-stream\lib\_stream_writable.js:390:139)
+    at writeOrBuffer (D:\PACK 2.1.3.2\node_modules\readable-stream\lib\_stream_writable.js:381:5)
+    at Writable.write (D:\PACK 2.1.3.2\node_modules\readable-stream\lib\_stream_writable.js:302:11)
+    at Duplexify.ondata (D:\PACK 2.1.3.2\node_modules\websocket-stream\node_modules\readable-stream\lib\_stream_readable.js:619:20)
+    at Duplexify.emit (node:events:519:28)
+    at addChunk (D:\PACK 2.1.3.2\node_modules\websocket-stream\node_modules\readable-stream\lib\_stream_readable.js:291:12)
+    at readableAddChunk (D:\PACK 2.1.3.2\node_modules\websocket-stream\node_modules\readable-stream\lib\_stream_readable.js:278:11)
+    at Readable.push (D:\PACK 2.1.3.2\node_modules\websocket-stream\node_modules\readable-stream\lib\_stream_readable.js:245:10)
+    at Duplexify._forward (D:\PACK 2.1.3.2\node_modules\websocket-stream\node_modules\duplexify\index.js:170:26)
+    at Transform.onreadable (D:\PACK 2.1.3.2\node_modules\websocket-stream\node_modules\duplexify\index.js:134:10)
+    at Transform.emit (node:events:519:28) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\PACK 2.1.3.2\\module\\commands\\noti\\groups.json'
+}
+
+Node.js v20.16.0
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at ChildProcess.<anonymous> (D:\PACK 2.1.3.2\index.js:31:13)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED test success
+[ EVENT ] LOADED adminNoti success
+[ EVENT ] LOADED anti success
+[ EVENT ] LOADED join success
+[ LOADED ] [ SUCCESS ] Loaded 1 commands and 3 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 11s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: /
+[ EVENT ] [ 20:08:00 08/16/2024 ] Event được thực thi: anti tại nhóm: 7945260388829260 | Thời gian xử lý: 20ms
+[ DELETE DATA ] Perform user deletion 61552721142294
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED test success
+[ EVENT ] LOADED adminNoti success
+[ EVENT ] LOADED anti success
+[ EVENT ] LOADED join success
+[ LOADED ] [ SUCCESS ] Loaded 1 commands and 3 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 10s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: @
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED test success
+[ COMMAND ] LOADED restart success
+[ EVENT ] LOADED adminNoti success
+[ EVENT ] LOADED anti success
+[ EVENT ] LOADED join success
+[ LOADED ] [ SUCCESS ] Loaded 2 commands and 3 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 8s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: @
+[ EVENT ] [ 20:08:02 08/16/2024 ] Event được thực thi: join tại nhóm: 7945260388829260 | Thời gian xử lý: 3ms
+[ ADD DATA ] Perform more group data 7945260388829260
+
+(process:2964): Pango-WARNING **: 20:57:08.862: couldn't load font "Terminal Dosis Ultra-Bold Not-Rotated 155px", falling back to "Sans Ultra-Bold Not-Rotated 155px", expect ugly output.
+
+(process:2964): Pango-WARNING **: 20:57:08.955: couldn't load font "Terminal Dosis Ultra-Bold Not-Rotated 75px", falling back to "Sans Ultra-Bold Not-Rotated 75px", expect ugly output.
+[ STARTER ] Getting Started!
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\PACK 2.1.3.2\node_modules\express\lib\application.js:635:24)
+    at startBot (D:\PACK 2.1.3.2\index.js:25:7)
+    at Object.<anonymous> (D:\PACK 2.1.3.2\index.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED test success
+[ COMMAND ] LOADED restart success
+[ EVENT ] LOADED adminNoti success
+[ EVENT ] LOADED anti success
+[ EVENT ] LOADED join success
+[ LOADED ] [ SUCCESS ] Loaded 3 commands and 3 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 8s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: @
+[ DEV MODE ] time⏱:[ 21:08:38 16/08/2024 ]
+Lệnh sử dụng📌: @test 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 2ms
+[ DEV MODE ] time⏱:[ 21:08:43 16/08/2024 ]
+Lệnh sử dụng📌: @test 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 2ms
+Lỗi khi tạo nội dung: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:403:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:376:9)
+    at async generateContent (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:815:22)
+    at async module.exports.handleEvent (D:\PACK 2.1.3.2\module\commands\gemini.js:183:22) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
+Lỗi khi tạo nội dung: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:403:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:376:9)
+    at async generateContent (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:815:22)
+    at async module.exports.handleEvent (D:\PACK 2.1.3.2\module\commands\gemini.js:183:22) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED gemini success
+[ COMMAND ] LOADED restart success
+[ EVENT ] LOADED adminNoti success
+[ EVENT ] LOADED anti success
+[ EVENT ] LOADED join success
+[ LOADED ] [ SUCCESS ] Loaded 3 commands and 3 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 9s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: @
+[ DEV MODE ] time⏱:[ 21:08:47 16/08/2024 ]
+Lệnh sử dụng📌: @gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 2ms
+[ DEV MODE ] time⏱:[ 21:08:52 16/08/2024 ]
+Lệnh sử dụng📌: @gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 2ms
+[ STARTER ] Getting Started!
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED gemini success
+[ COMMAND ] LOADED restart success
+[ EVENT ] LOADED adminNoti success
+[ EVENT ] LOADED anti success
+[ EVENT ] LOADED join success
+[ LOADED ] [ SUCCESS ] Loaded 3 commands and 3 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 8s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: $
+[ DEV MODE ] time⏱:[ 21:08:03 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 1ms
+[ DEV MODE ] time⏱:[ 21:08:07 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 1ms
+[ EVENT ] [ 21:08:12 08/16/2024 ] Event được thực thi: join tại nhóm: 7945260388829260 | Thời gian xử lý: 3ms
+[ ADD DATA ] Perform more group data 7945260388829260
+
+(process:11492): Pango-WARNING **: 21:23:17.487: couldn't load font "Terminal Dosis Ultra-Bold Not-Rotated 155px", falling back to "Sans Ultra-Bold Not-Rotated 155px", expect ugly output.
+
+(process:11492): Pango-WARNING **: 21:23:17.558: couldn't load font "Terminal Dosis Ultra-Bold Not-Rotated 75px", falling back to "Sans Ultra-Bold Not-Rotated 75px", expect ugly output.
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED gemini success
+[ COMMAND ] LOADED restart success
+[ LOADED ] [ SUCCESS ] Loaded 3 commands and 0 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 9s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: $
+[ STARTER ] Getting Started!
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED gemini success
+[ COMMAND ] LOADED restart success
+[ LOADED ] [ SUCCESS ] Loaded 3 commands and 0 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 8s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: $
+[ STARTER ] Getting Started!
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED gemini success
+[ COMMAND ] LOADED restart success
+[ LOADED ] [ SUCCESS ] Loaded 3 commands and 0 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 7s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: $
+[ DEV MODE ] time⏱:[ 21:08:32 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 1ms
+[ DATABASE ] người dùng mới: 100073530840773
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED gemini success
+[ COMMAND ] LOADED restart success
+[ LOADED ] [ SUCCESS ] Loaded 3 commands and 0 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 7s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: $
+[ DEV MODE ] time⏱:[ 21:08:17 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 2ms
+[ DEV MODE ] time⏱:[ 21:08:25 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 7ms
+[ ADD DATA ] Perform more group data 7224177657657967
+[ DEV MODE ] time⏱:[ 21:08:43 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 1ms
+[ DELETE DATA ] Perform user deletion 100053489243280
+[ ADD DATA ] Perform more group data 7945260388829260
+[ DELETE DATA ] Perform user deletion 100055997586030
+[ ADD DATA ] Perform more group data 7945260388829260
+[ DELETE DATA ] Perform user deletion 100093684404408
+[ ADD DATA ] Perform more group data 7945260388829260
+[ ADD DATA ] Perform more group data 7945260388829260
+[ DELETE DATA ] Perform user deletion 100073530840773
+[ DELETE DATA ] Perform user deletion 100053489243280
+[ ADD DATA ] Perform more group data 7945260388829260
+[ DELETE DATA ] Perform user deletion 100053489243280
+[ ADD DATA ] Perform more group data 7945260388829260
+[ DELETE DATA ] Perform user deletion 100053489243280
+[ ADD DATA ] Perform more group data 7945260388829260
+[ DELETE DATA ] Perform user deletion 100053489243280
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED gemini success
+[ COMMAND ] LOADED restart success
+[ LOADED ] [ SUCCESS ] Loaded 3 commands and 0 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 11s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: $
+[ DEV MODE ] time⏱:[ 22:08:51 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 2ms
+[ DEV MODE ] time⏱:[ 22:08:52 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 1ms
+[ DEV MODE ] time⏱:[ 22:08:17 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 4ms
+[ DELETE DATA ] Perform user deletion 100080134156932
+[ DEV MODE ] time⏱:[ 22:08:31 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 1ms
+[ DEV MODE ] time⏱:[ 22:08:48 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 1ms
+[ DEV MODE ] time⏱:[ 22:08:09 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 1ms
+[ DEV MODE ] time⏱:[ 22:08:08 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 0ms
+[ DEV MODE ] time⏱:[ 22:08:02 16/08/2024 ]
+Lệnh sử dụng📌: $cmd 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: load
+Thời gian xử lý📍: 13ms
+[ DEV MODE ] time⏱:[ 22:08:09 16/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 1ms
+[ DELETE DATA ] Perform user deletion 100065381078044
+[ DEV MODE ] time⏱:[ 22:08:24 16/08/2024 ]
+Lệnh sử dụng📌: $cmd 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: load
+Thời gian xử lý📍: 15ms
+[ DEV MODE ] time⏱:[ 22:08:26 16/08/2024 ]
+Lệnh sử dụng📌: $cmd 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 8129285210485042 
+Args đi kèm👋: load
+Thời gian xử lý📍: 472ms
+[ DATABASE ] nhóm mới: 8129285210485042
+[ UPDATE DATA ] Update name in group 7945260388829260
+[ ADD DATA ] Perform more group data 7945260388829260
+[ DEV MODE ] time⏱:[ 22:08:02 16/08/2024 ]
+Lệnh sử dụng📌: $cmd 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 8129285210485042 
+Args đi kèm👋: load
+Thời gian xử lý📍: 9ms
+[ UPDATE DATA ] Update name in group 7945260388829260
+[ DELETE DATA ] Perform user deletion 100068498710230
+[ ADD DATA ] Perform more group data 7945260388829260
+[ DELETE DATA ] Perform user deletion 100095506982239
+[ DELETE DATA ] Perform user deletion 100068896216512
+[ DEV MODE ] time⏱:[ 22:08:51 16/08/2024 ]
+Lệnh sử dụng📌: $cmd 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 8129285210485042 
+Args đi kèm👋: load
+Thời gian xử lý📍: 24ms
+Lỗi khi tạo nội dung: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:403:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:376:9)
+    at async generateContent (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:815:22)
+    at async module.exports.handleEvent (D:\PACK 2.1.3.2\module\commands\gemini.js:181:22) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
+Lỗi khi tạo nội dung: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:403:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:376:9)
+    at async generateContent (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:815:22)
+    at async module.exports.handleEvent (D:\PACK 2.1.3.2\module\commands\gemini.js:181:22) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
+Lỗi khi tạo nội dung: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:403:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:376:9)
+    at async generateContent (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:815:22)
+    at async module.exports.handleEvent (D:\PACK 2.1.3.2\module\commands\gemini.js:181:22) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
+[ DELETE DATA ] Perform user deletion 100066878168335
+[ ADD DATA ] Perform more group data 6580627112027040
+Lỗi khi tạo nội dung: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:403:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:376:9)
+    at async generateContent (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:815:22)
+    at async module.exports.handleEvent (D:\PACK 2.1.3.2\module\commands\gemini.js:181:22) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
+Lỗi khi tạo nội dung: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:403:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:376:9)
+    at async generateContent (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:815:22)
+    at async module.exports.handleEvent (D:\PACK 2.1.3.2\module\commands\gemini.js:181:22) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
+Lỗi khi tạo nội dung: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:403:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:376:9)
+    at async generateContent (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:815:22)
+    at async module.exports.handleEvent (D:\PACK 2.1.3.2\module\commands\gemini.js:181:22) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
+[ DELETE DATA ] Perform user deletion 61554978776745
+Lỗi khi tạo nội dung: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:403:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:376:9)
+    at async generateContent (D:\PACK 2.1.3.2\node_modules\@google\generative-ai\dist\index.js:815:22)
+    at async module.exports.handleEvent (D:\PACK 2.1.3.2\module\commands\gemini.js:181:22) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
+[ DELETE DATA ] Perform user deletion 61561706008732
+[ DELETE DATA ] Perform user deletion 100092325757607
+[ ADD DATA ] Perform more group data 7945260388829260
+[ ADD DATA ] Perform more group data 7945260388829260
+[ ADD DATA ] Perform more group data 7945260388829260
+[ ADD DATA ] Perform more group data 6339130469485464
+[ UPDATE DATA ] Update name in group 7945260388829260
+[ DELETE DATA ] Perform user deletion 61557356161502
+[ ADD DATA ] Perform more group data 7945260388829260
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED gemini success
+[ COMMAND ] LOADED restart success
+[ LOADED ] [ SUCCESS ] Loaded 3 commands and 0 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 12s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: $
+[ ADD DATA ] Perform more group data 7945260388829260
+[ DEV MODE ] time⏱:[ 02:08:58 17/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 330ms
+[ DEV MODE ] time⏱:[ 02:08:15 17/08/2024 ]
+Lệnh sử dụng📌: $gemini 
+bởi người dùng👤: 61561753304881 
+tại nhóm🔮: 61561753304881 
+Args đi kèm👋: 
+Thời gian xử lý📍: 1ms

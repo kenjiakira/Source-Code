@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 const logger = require("./utils/log.js");
 const path = require('path');
-const PORT = 9999 || 8888 || 8080 || 6969;
+const PORT = 8080 || 8888 || 8080 || 6969;
 app.get('/', function(req, res) {
   res.sendFile(path.join(__dirname, '/includes/login/cover/index.html'));
 });

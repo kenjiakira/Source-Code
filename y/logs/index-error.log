@@ -1,0 +1,18 @@
+[ STARTER ] Getting Started!
+[ DATABASE ] [ CONNECT ] Connected to JSON database successfully!
+[ COMMAND ] LOADED cmd success
+[ COMMAND ] LOADED test success
+[ COMMAND ] LOADED restart success
+[ EVENT ] LOADED adminNoti success
+[ EVENT ] LOADED anti success
+[ EVENT ] LOADED join success
+[ LOADED ] [ SUCCESS ] Loaded 3 commands and 3 events successfully
+[ LOADED ] [ TIMESTART ] Launch time: 10s
+[ LOADED ] [ BOT_INFO ] success!
+[ NAME ]: AKI 
+[ FBID ]: 61563982612558 
+[ PRFX ]: @
+[ EVENT ] [ 21:08:18 08/16/2024 ] Event được thực thi: adminNoti tại nhóm: 7945260388829260 | Thời gian xử lý: 1ms
+[ EVENT ] [ 21:08:34 08/16/2024 ] Event được thực thi: anti tại nhóm: 7945260388829260 | Thời gian xử lý: 0ms
+[ DELETE DATA ] Perform user deletion 100073716739885
+[ ADD DATA ] Perform more group data 7945260388829260
